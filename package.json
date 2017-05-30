@@ -1,0 +1,22 @@
+{
+  "name": "howmanyavos",
+  "version": "0.0.1",
+  "description": "How many avocados calculator",
+  "main": "src/index.js",
+  "scripts": {
+    "build": "browserify ./src/index.js -o ./js/avos.js --debug"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nrkn/howmanyavos.git"
+  },
+  "author": "Nik Coughlin <nrkn.com@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nrkn/howmanyavos/issues"
+  },
+  "homepage": "https://github.com/nrkn/howmanyavos#readme",
+  "devDependencies": {
+    "browserify": "^14.4.0"
+  }
+}
