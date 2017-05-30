@@ -17,20 +17,20 @@
       <form class="avo-app__input">
         <label>
           <span>Which electorate do you live in?</span>
-          <input list="names" name="name" value="" />
+          <input name="name" value="" list="names" />
           <small class="avo-app__error avo-app__error--hidden"></small>
           <datalist id="names"></datalist>
         </label>
 
         <label>
           <span>How much is an avocado at your local?</span>
-          <input name="price" value="4.99" />
+          <input name="price" value="4.99" type="number" min="0.01" step="0.5" />
           <small class="avo-app__error avo-app__error--hidden"></small>
         </label>
 
         <label>
           <span>How many years before you want to buy a house?</span>
-          <input name="years" value="5" />
+          <input name="years" value="5" type="number" min="1" step="1" />
           <small class="avo-app__error avo-app__error--hidden"></small>
         </label>
         <button type="button" name="run">Run the numbers</button>
