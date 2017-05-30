@@ -35,6 +35,7 @@ const Calculator = ( prices, breakfastPrice ) => {
     const { source, price, name } = data
 
     const houseInAvocados = price / avocadoPrice
+    const bathtubs = houseInAvocados / 569
     const houseInBreakfasts = price / breakfastPrice
     const avocadosPerYear = houseInAvocados / years
     const avocadosPerMonth = avocadosPerYear / 12
@@ -45,7 +46,7 @@ const Calculator = ( prices, breakfastPrice ) => {
     // a model suitable for populating the result
     const model = {
       houseInAvocados, avocadosPerMonth, avocadosPerWeek, breakfastsPerYear,
-      breakfastsPerWeek, name, price, years, source
+      breakfastsPerWeek, bathtubs, name, price, years, source
     }
 
     return model
