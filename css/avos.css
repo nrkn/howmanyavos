@@ -13,3 +13,19 @@
 .avo-app__error--hidden {
   display: none;
 }
+
+.avo-app__visualisation {
+  display: flex;
+  width: 800px;
+  max-width: 100%;
+}
+
+.avo-app__house, .avo-app__avos {
+  display: flex;
+  flex-grow: 1;
+}
+
+.avo-app__visualisation img {
+  width: 100%;
+  height: auto;
+}

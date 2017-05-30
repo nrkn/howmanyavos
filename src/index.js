@@ -7,6 +7,7 @@ require( './polyfills' )
 
 const Calculator = require( './calculator' )
 const Populate = require( './populate' )
+const visualisation = require( './visualisation' )
 const prices = require( './house-prices.json' )
 
 const names = prices.map( p => p.name.toLowerCase().trim() )
@@ -111,6 +112,11 @@ const output = input => {
 
   // populate the model
   populate( model )
+
+  // visualisation
+  const $house = document.querySelector( '.avo-app__house' )
+  const $avos = document.querySelector( '.avo-app__avos' )
+  visualisation( model.houseInAvocados, $house, $avos )
 
   // show the result
   $result.classList.remove( 'avo-app__result--hidden' )
