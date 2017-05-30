@@ -1,5 +1,10 @@
 'use strict'
 
+/*
+  Element.prototype.matches for Edge et al.
+*/
+require( './polyfills' )
+
 const Calculator = require( './calculator' )
 const Populate = require( './populate' )
 const prices = require( './house-prices.json' )
