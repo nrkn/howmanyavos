@@ -15,17 +15,20 @@
 }
 
 .avo-app__visualisation {
-  display: flex;
   width: 800px;
   max-width: 100%;
+  white-space: nowrap;
 }
 
 .avo-app__house, .avo-app__avos {
-  display: flex;
-  flex-grow: 1;
+  float: left;
 }
 
 .avo-app__visualisation img {
   width: 100%;
   height: auto;
+}
+
+.avo-app__visualisation + figcaption {
+  clear: left;
 }

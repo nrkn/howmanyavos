@@ -116,6 +116,7 @@ const output = input => {
   // visualisation
   const $house = document.querySelector( '.avo-app__house' )
   const $avos = document.querySelector( '.avo-app__avos' )
+
   visualisation( model.houseInAvocados, $house, $avos )
 
   // show the result
