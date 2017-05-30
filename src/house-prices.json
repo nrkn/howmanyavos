@@ -1,0 +1,322 @@
+[
+  {
+    "name": "Auckland Central",
+    "price": 1079879,
+    "source": ""
+  },
+  {
+    "name": "Bay of Plenty",
+    "price": 533600,
+    "source": "http://www.nzherald.co.nz/bay-of-plenty-times/news/article.cfm?c_id=1503343&objectid=11656861"
+  },
+  {
+    "name": "Botany",
+    "price": 1172617,
+    "source": ""
+  },
+  {
+    "name": "Christchurch Central",
+    "price": 585099,
+    "source": ""
+  },
+  {
+    "name": "Christchurch East",
+    "price": 370913,
+    "source": ""
+  },
+  {
+    "name": "Clutha-Southland",
+    "price": 313711,
+    "source": ""
+  },
+  {
+    "name": "Coromandel",
+    "price": 690634,
+    "source": ""
+  },
+  {
+    "name": "Dunedin North",
+    "price": 346444,
+    "source": ""
+  },
+  {
+    "name": "Dunedin South",
+    "price": 352212,
+    "source": ""
+  },
+  {
+    "name": "East Coast",
+    "price": 288748,
+    "source": "http://www.nzherald.co.nz/bay-of-plenty-times/news/article.cfm?c_id=1503343&objectid=11656861"
+  },
+  {
+    "name": "East Coast Bays",
+    "price": 1148505,
+    "source": "http://www.nzherald.co.nz/business/news/article.cfm?c_id=3&objectid=11491720"
+  },
+  {
+    "name": "Epsom",
+    "price": 1653500,
+    "source": ""
+  },
+  {
+    "name": "Hamilton East",
+    "price": 586214,
+    "source": ""
+  },
+  {
+    "name": "Hamilton West",
+    "price": 488953,
+    "source": ""
+  },
+  {
+    "name": "Helensville",
+    "price": 587500,
+    "source": ""
+  },
+  {
+    "name": "Hunua",
+    "price": 669518,
+    "source": ""
+  },
+  {
+    "name": "Hutt South",
+    "price": 503286,
+    "source": ""
+  },
+  {
+    "name": "Ilam",
+    "price": 641550,
+    "source": "http://www.stuff.co.nz/business/money/77741927/Housing-demand-pushes-price-growth-east-in-Christchurch"
+  },
+  {
+    "name": "Invercargill",
+    "price": 239486,
+    "source": ""
+  },
+  {
+    "name": "Kaikōura",
+    "price": 399661,
+    "source": ""
+  },
+  {
+    "name": "Kelston",
+    "price": 708500,
+    "source": ""
+  },
+  {
+    "name": "Mana",
+    "price": 501028,
+    "source": ""
+  },
+  {
+    "name": "Mangere",
+    "price": 636750,
+    "source": ""
+  },
+  {
+    "name": "Manukau East",
+    "price": 1172617,
+    "source": ""
+  },
+  {
+    "name": "Manurewa",
+    "price": 607000,
+    "source": ""
+  },
+  {
+    "name": "Maungakiekie",
+    "price": 1023306,
+    "source": "https://www.barfoot.co.nz/market-reports/2016/february/suburb-report"
+  },
+  {
+    "name": "Mt Albert",
+    "price": 1094000,
+    "source": ""
+  },
+  {
+    "name": "Mt Roskill",
+    "price": 909000,
+    "source": ""
+  },
+  {
+    "name": "Napier",
+    "price": 425484,
+    "source": ""
+  },
+  {
+    "name": "Nelson",
+    "price": 527422,
+    "source": ""
+  },
+  {
+    "name": "New Lynn",
+    "price": 702000,
+    "source": ""
+  },
+  {
+    "name": "New Plymouth",
+    "price": 418445,
+    "source": ""
+  },
+  {
+    "name": "North Shore",
+    "price": 1195292,
+    "source": ""
+  },
+  {
+    "name": "Northcote",
+    "price": 1198200,
+    "source": ""
+  },
+  {
+    "name": "Northland",
+    "price": 554000,
+    "source": "http://www.scoop.co.nz/stories/BU1702/S00824/northland-residential-property-price-increases-accelerated.htm"
+  },
+  {
+    "name": "Ōhariu",
+    "price": 580000,
+    "source": "www.leaderswellington.co.nz/s/PU-0616-AndrewPano.pdf"
+  },
+  {
+    "name": "Ōtaki",
+    "price": 325500,
+    "source": ""
+  },
+  {
+    "name": "Pakuranga",
+    "price": 854000,
+    "source": ""
+  },
+  {
+    "name": "Palmerston North",
+    "price": 354999,
+    "source": ""
+  },
+  {
+    "name": "Papakura",
+    "price": 575139,
+    "source": ""
+  },
+  {
+    "name": "Port Hills",
+    "price": 648000,
+    "source": "http://www.stuff.co.nz/the-press/news/69229248/christchurch-home-values-take-a-jump-on-the-hills-flatter-on-the-flat"
+  },
+  {
+    "name": "Rangitata",
+    "price": 355556,
+    "source": "http://www.landlords.co.nz/housing-statistics/?graphsubmitted=true&frommonth=1&fromyear=1994&tomonth=5&toyear=2017&graphareas%5B%5D=119&graphstyle=price&submit=Show+Graph"
+  },
+  {
+    "name": "Rangitīkei",
+    "price": 163111,
+    "source": "http://www.stuff.co.nz/manawatu-standard/news/88957498/Houses-worth-more-in-Palmerston-North-and-Horowhenua-QV-figures-show"
+  },
+  {
+    "name": "Rimutaka",
+    "price": 445632,
+    "source": ""
+  },
+  {
+    "name": "Rodney",
+    "price": 809752,
+    "source": "http://www.nzherald.co.nz/business/news/article.cfm?c_id=3&objectid=11598700"
+  },
+  {
+    "name": "Rongotai",
+    "price": 583000,
+    "source": ""
+  },
+  {
+    "name": "Rotorua",
+    "price": 396423,
+    "source": ""
+  },
+  {
+    "name": "Selwyn",
+    "price": 542493,
+    "source": "https://ecoprofile.infometrics.co.nz/Selwyn%2BDistrict/QuarterlyEconomicMonitor/HousePrices"
+  },
+  {
+    "name": "Tāmaki",
+    "price": 1021250,
+    "source": "tamaki east"
+  },
+  {
+    "name": "Taranaki-King Country",
+    "price": 411160,
+    "source": "http://www.stuff.co.nz/business/property/88303046/taranaki-residential-property-prices-continue-to-rise"
+  },
+  {
+    "name": "Taupō",
+    "price": 437943,
+    "source": ""
+  },
+  {
+    "name": "Tauranga",
+    "price": 678643,
+    "source": ""
+  },
+  {
+    "name": "Te Atatu",
+    "price": 834750,
+    "source": "Te Atatu Peninsula + Te Atatu south"
+  },
+  {
+    "name": "Tukituki",
+    "price": 408510,
+    "source": "hastings"
+  },
+  {
+    "name": "Upper Harbour",
+    "price": 937324,
+    "source": ""
+  },
+  {
+    "name": "Waikato",
+    "price": 450043,
+    "source": ""
+  },
+  {
+    "name": "Waimakariri",
+    "price": 435200,
+    "source": "https://ecoprofile.infometrics.co.nz/Waimakariri%2BDistrict/QuarterlyEconomicMonitor/HousePrices"
+  },
+  {
+    "name": "Wairarapa",
+    "price": 359212,
+    "source": "south wairarapa + masterton"
+  },
+  {
+    "name": "Waitaki",
+    "price": 267631,
+    "source": ""
+  },
+  {
+    "name": "Wellington Central",
+    "price": 721252,
+    "source": ""
+  },
+  {
+    "name": "West Coast-Tasman",
+    "price": 320200,
+    "source": "no data for haast, hari hari, whataroa, ross, fox glacier"
+  },
+  {
+    "name": "Whanganui",
+    "price": 220336,
+    "source": ""
+  },
+  {
+    "name": "Whangarei",
+    "price": 477765,
+    "source": ""
+  },
+  {
+    "name": "Wigram",
+    "price": 640000,
+    "source": ""
+  }
+]
